@@ -1,0 +1,11 @@
+.we__btn {
+  color: #fff;
+  background-color: $accent-color;
+  border-color: $accent-color;
+
+  &:hover {
+    background-color: $secondary-color;
+    border-color: $secondary-color;
+    color: $accent-color;
+  }
+}
