@@ -1,4 +1,7 @@
-# weatherly-2
+# Weatherly
+This was a sort of hello-world project to learn the then recently released vue 3.
+
+I have wishes to update the codebase, add new features and improve the UI. 
 
 ## Project setup
 ```
